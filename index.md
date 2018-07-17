@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 老司机的第一个网页，6666
 
 You can use the [editor on GitHub](https://github.com/bsdlsj/thenewlsj/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
